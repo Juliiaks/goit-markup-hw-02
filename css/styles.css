@@ -1,0 +1,109 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+h1, h2,  h3{
+    color: #2E2F42;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    color: #2E2F42;
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.1;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+}
+
+.logo-part{
+    color:  #4D5AE5;
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.1;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+}
+
+.nav-list .nav-list-link{
+        color:#2E2F42;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.32px;
+    
+}
+
+.nav-list .nav-list-link:hover, .nav-list .nav-list-link:focus{
+    color: #404BBF;
+}
+
+.nav-list .nav-list-item .nav-list-link:active{
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.address-list .address-list-item{
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.address-list .address-list-item:hover, .address-list .address-list-item:focus{
+    color: #404BBF;
+}
+
+.section-hero{
+background-color: #2E2F42;
+}
+
+h1{
+    color:  #FFF;
+        text-align: center;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.0;
+        letter-spacing: 1.12px;
+}
+
+.hero-button{
+    color: #FFF;
+    background-color: #4D5AE5;
+    font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.64px;
+        
+}
+
+.comp-qual-list .comp-qual-list-header{
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+}
+
+.comp-qual-list .comp-qual-list-text{
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
+
