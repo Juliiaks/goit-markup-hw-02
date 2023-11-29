@@ -75,7 +75,7 @@ background-color: #2E2F42;
     text-align: center;
     font-size: 56px;
     font-weight: 700;
-    line-height: 1.0;
+    line-height: 1.07;
     letter-spacing: 0.02em;
 }
 
@@ -89,6 +89,10 @@ background-color: #2E2F42;
     letter-spacing: 0.04em;
     cursor: pointer;
         
+}
+
+.hero-button:hover, .hero-button:focus{
+    background-color: #404BBF;
 }
 
 /* Main features */
@@ -113,7 +117,7 @@ background-color: #2E2F42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
@@ -147,7 +151,7 @@ letter-spacing: 0.02em;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
